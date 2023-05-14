@@ -1,5 +1,9 @@
 # Student-Application-Website
 
+## Where to Access Repository
+
+https://github.com/Holyvert/2Squared-soen341project2023
+
 ## Main and Extra Features Video Link 
 
 https://drive.google.com/drive/folders/13UDU8QH6DV63Gm1uEmWqm5k6CUlgSR1H?usp=sharing
